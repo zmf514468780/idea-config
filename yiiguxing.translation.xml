@@ -1,0 +1,32 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Nurse" />
+      <item value="springframework" />
+      <item value="artifact Id" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="AUTO" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

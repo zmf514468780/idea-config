@@ -1,0 +1,16 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="E:/softWare/nodejs/node.exe">
+      <version-cache version="8.11.4" last-modified="1534311470000" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INLINE_METHOD_THIS" value="true" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
+  </component>
+</application>

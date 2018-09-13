@@ -1,0 +1,134 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="TOP_LEVEL_CLASS_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="INNER_CLASS_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="METHOD_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+              </value>
+            </option>
+            <option name="FIELD_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="IGNORE_DEPRECATED" value="false" />
+            <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+            <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+            <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+            <option name="myAdditionalJavadocTags" value="date,project:,package:,description:,author:,date:" />
+          </inspection_tool>
+          <inspection_tool class="NonSerializableWithSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="SerialVersionUIDNotStaticFinal" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="ignoreAnonymousInnerClasses" value="true" />
+            <option name="superClassString" value="" />
+          </inspection_tool>
+          <inspection_tool class="SerializableInnerClassHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="ignoreAnonymousInnerClasses" value="false" />
+            <option name="superClassString" value="" />
+          </inspection_tool>
+        </profile>
+        <option name="PROJECT_PROFILE" value="Default" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
+        <version value="1.0" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="E:/env/apache-maven-3.5.3" />
+            <option name="userSettingsFile" value="E:\env\apache-maven-3.5.3\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="HOTFIX_customHotfixCommitMessage_text" value="Tagging hotfix %name%" />
+        <property name="RELEASE_customTagCommitMessage_text" value="Tagging version %name%" />
+        <property name="last_opened_file_path" value="E:/IdeaProjects" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="gitflow.GitflowConfigurable" />
+      </component>
+      <component name="SshConsoleOptionsProvider">
+        <option name="myEncoding" value="UTF-8" />
+        <option name="myConnectionType" value="NONE" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
