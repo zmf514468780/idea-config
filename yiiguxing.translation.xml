@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Grayscale" />
+      <item value="Gray Scale" />
+      <item value="必要" />
+      <item value="nessasly" />
+      <item value="evict" />
+      <item value="evit" />
+      <item value="verify" />
+      <item value="审核" />
+      <item value="sync Follow Number" />
+      <item value="灰度发布" />
+      <item value="follow" />
       <item value="capture" />
       <item value="get Description" />
       <item value="update By Primary Key Selective" />
@@ -16,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="13" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
