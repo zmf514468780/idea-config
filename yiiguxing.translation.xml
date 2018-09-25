@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="evict" />
+      <item value="evit" />
       <item value="Grayscale" />
       <item value="verify" />
       <item value="审核" />
