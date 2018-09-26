@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INTERVAL" />
       <item value="Grayscale" />
       <item value="Gray Scale" />
       <item value="必要" />
@@ -28,7 +29,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="ENGLISH" value="14" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
