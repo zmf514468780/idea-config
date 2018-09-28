@@ -19,7 +19,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@192.168.1.100:microservice/ms-shopcart.git" />
+          <option name="url" value="http://115.238.172.62:5880" />
+          <option name="userName" value="zhangxiancheng" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://115.238.172.62:5880/microservice/ms-finance.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -28,6 +32,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Administrator\IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>
