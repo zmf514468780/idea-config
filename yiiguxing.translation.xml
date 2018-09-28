@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disassemble" />
+      <item value="Print Assembly" />
+      <item value="Hot Spot" />
+      <item value="dump" />
+      <item value="instructions" />
+      <item value="CA" />
+      <item value="information" />
+      <item value="pone" />
       <item value="Notify" />
       <item value="average" />
       <item value="INTERVAL" />
@@ -30,9 +38,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
+        <entry key="ROMANIAN" value="2" />
       </map>
     </option>
   </component>
