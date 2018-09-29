@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prohibited" />
+      <item value="get Class Loader" />
+      <item value="get Security Manager" />
       <item value="disassemble" />
       <item value="Print Assembly" />
       <item value="Hot Spot" />
@@ -38,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="25" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
