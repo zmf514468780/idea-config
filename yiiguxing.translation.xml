@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="diagnostic" />
       <item value="spin" />
       <item value="Thread Local" />
       <item value="entrant" />
