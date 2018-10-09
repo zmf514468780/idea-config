@@ -5,14 +5,10 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
-  <action id="RecentFiles" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
-  <action id="com.eslint">
-    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
 </keymap>
