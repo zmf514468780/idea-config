@@ -1,0 +1,7 @@
+<keymap version="1" name="Mac OS X copy 1" parent="Mac OS X">
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl i" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+</keymap>
