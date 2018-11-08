@@ -15,6 +15,9 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="XDebugger.CopyName">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="emacsIDEAs.AceJumpSelect">
     <keyboard-shortcut first-keystroke="meta i" second-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt s" />
