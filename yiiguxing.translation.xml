@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="apply" />
       <item value="distinguish" />
       <item value="warning" />
       <item value="magic,don't touch" />
@@ -46,7 +47,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
