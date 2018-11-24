@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="second" />
+      <item value="first" />
+      <item value="reject" />
       <item value="apply" />
       <item value="distinguish" />
       <item value="warning" />
@@ -46,7 +49,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
+        <entry key="CHINESE" value="31" />
         <entry key="ENGLISH" value="31" />
         <entry key="ROMANIAN" value="1" />
       </map>
