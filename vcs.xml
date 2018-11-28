@@ -54,8 +54,12 @@
           <option name="url" value="https://github.com/Wechat-Group/weixin-java-tools.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.1.100:microservice/ms-settings.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Administrator\Downloads" />
+    <option name="cloneParentDir" value="E:\projects" />
   </component>
 </application>
