@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="script" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="script" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
