@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Replaces all linked nodes in bin at index for given hash unless * table is too small, in which case resizes instead." />
+      <item value="preserve order" />
+      <item value="Splits nodes in a tree bin into lower and upper tree bins, * or untreeifies if now too small. Called only from resize; * see above discussion about split bits and indices." />
+      <item value="rawtypes" />
+      <item value="zero initial threshold signifies using defaults" />
       <item value="threshold" />
       <item value="aka" />
       <item value="double threshold" />
@@ -46,16 +51,11 @@
       <item value="twisty" />
       <item value="existence" />
       <item value="majority" />
-      <item value="vast" />
-      <item value="overpopulated" />
-      <item value="applicable" />
-      <item value="relay" />
-      <item value="structured" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
