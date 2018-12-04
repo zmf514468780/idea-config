@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aka" />
+      <item value="double threshold" />
+      <item value="The maximum capacity, used if a higher value is implicitly specified * by either of the constructors with arguments. * MUST be a power of two &lt;= 1&lt;&lt;30." />
       <item value="extract a root" />
       <item value="开方" />
       <item value="平方" />
@@ -39,7 +42,6 @@
       <item value="TREEIFY THRESHOLD" />
       <item value="TREEIFY" />
       <item value="factor" />
-      <item value="aka" />
       <item value="amid" />
       <item value="twisty" />
       <item value="existence" />
@@ -49,13 +51,11 @@
       <item value="applicable" />
       <item value="relay" />
       <item value="structured" />
-      <item value="bucketed" />
-      <item value="binned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
