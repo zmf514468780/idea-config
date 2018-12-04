@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extract a root" />
+      <item value="开方" />
+      <item value="平方" />
+      <item value="capacity" />
+      <item value="Initializes or doubles table size. If null, allocates in * accord with initial capacity target held in field threshold. * Otherwise, because we are using power-of-two expansion, the * elements from each bin must either stay at same index, or move * with a power of two offset in the new table." />
+      <item value="resolve" />
+      <item value="解决" />
       <item value="transient" />
       <item value="We also tolerate length zero in some operations to allow * bootstrapping mechanics that are currently not needed." />
       <item value="Implements Map.put and related methods" />
@@ -44,18 +51,11 @@
       <item value="structured" />
       <item value="bucketed" />
       <item value="binned" />
-      <item value="exponent" />
-      <item value="expand" />
-      <item value="license" />
-      <item value="new Instants" />
-      <item value="second" />
-      <item value="first" />
-      <item value="reject" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="81" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
