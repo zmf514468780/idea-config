@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Computes key.hashCode() and spreads (XORs) higher bits of hash * to lower. Because the table uses power-of-two masking, sets of * hashes that vary only in bits above the current mask will * always collide. (Among known examples are sets of Float keys * holding consecutive whole numbers in small tables.) So we * apply a transform that spreads the impact of higher bits * downward. There is a tradeoff between speed, utility, and * quality of bit-spreading. Because many common sets of hashes * are already reasonably distributed (so don't benefit from * spreading), and because we use trees to handle large sets of * collisions in bins, we just XOR some shifted bits in the * cheapest possible way to reduce systematic lossage, as well as * to incorporate impact of the highest bits that would otherwise * never be used in index calculations because of table bounds." />
+      <item value="Because many common sets of hashes * are already reasonably distributed" />
+      <item value="There is a tradeoff between speed, utility, and * quality of bit-spreading" />
+      <item value="tradeoff" />
+      <item value="So we * apply a transform that spreads the impact of higher bits * downward" />
+      <item value="impact" />
+      <item value="consecutive" />
+      <item value="Among" />
+      <item value="collide" />
+      <item value="vary" />
+      <item value="masking" />
+      <item value="spreads" />
       <item value="utilities" />
       <item value="mutates" />
       <item value="treeified" />
@@ -39,23 +51,11 @@
       <item value="apply" />
       <item value="distinguish" />
       <item value="warning" />
-      <item value="magic,don't touch" />
-      <item value="unidirectional" />
-      <item value="association" />
-      <item value="concatenation" />
-      <item value="referenced" />
-      <item value="imply" />
-      <item value="lack" />
-      <item value="t" />
-      <item value="claim" />
-      <item value="barge" />
-      <item value="get Primitive Class" />
-      <item value="strict" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
