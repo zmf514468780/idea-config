@@ -1,42 +1,62 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="t" />
-      <item value="claim" />
-      <item value="barge" />
-      <item value="get Primitive Class" />
-      <item value="strict" />
-      <item value="Notify" />
-      <item value="average" />
-      <item value="INTERVAL" />
-      <item value="Grayscale" />
-      <item value="Gray Scale" />
-      <item value="必要" />
-      <item value="nessasly" />
-      <item value="evict" />
-      <item value="evit" />
-      <item value="verify" />
-      <item value="审核" />
-      <item value="sync Follow Number" />
-      <item value="灰度发布" />
-      <item value="follow" />
-      <item value="capture" />
-      <item value="get Description" />
-      <item value="update By Primary Key Selective" />
-      <item value="member Attribute" />
-      <item value="db Member Attribute" />
-      <item value="exposes" />
-      <item value="derived" />
-      <item value="signifying" />
-      <item value="estimat" />
-      <item value="Nurse" />
-      <item value="springframework" />
-      <item value="artifact Id" />
+      <item value="angle" />
+      <item value="Returns the value to which the specified key is mapped, * or {@code null} if this map contains no mapping for the key. * * &lt;p&gt;More formally, if this map contains a mapping from a key * {@code k} to a value {@code v} such that {@code (key==null ? k==null : * key.equals(k))}, then this method returns {@code v}; otherwise * it returns {@code null}. (There can be at most one such mapping.) * * &lt;p&gt;A return value of {@code null} does not &lt;i&gt;necessarily&lt;/i&gt; * indicate that the map contains no mapping for the key; it's also * possible that the map explicitly maps the key to {@code null}. * The {@link #containsKey containsKey} operation may be used to * distinguish these two cases." />
+      <item value="Replaces all linked nodes in bin at index for given hash unless * table is too small, in which case resizes instead." />
+      <item value="preserve order" />
+      <item value="Splits nodes in a tree bin into lower and upper tree bins, * or untreeifies if now too small. Called only from resize; * see above discussion about split bits and indices." />
+      <item value="rawtypes" />
+      <item value="zero initial threshold signifies using defaults" />
+      <item value="threshold" />
+      <item value="aka" />
+      <item value="double threshold" />
+      <item value="The maximum capacity, used if a higher value is implicitly specified * by either of the constructors with arguments. * MUST be a power of two &lt;= 1&lt;&lt;30." />
+      <item value="extract a root" />
+      <item value="开方" />
+      <item value="平方" />
+      <item value="capacity" />
+      <item value="Initializes or doubles table size. If null, allocates in * accord with initial capacity target held in field threshold. * Otherwise, because we are using power-of-two expansion, the * elements from each bin must either stay at same index, or move * with a power of two offset in the new table." />
+      <item value="resolve" />
+      <item value="解决" />
+      <item value="transient" />
+      <item value="We also tolerate length zero in some operations to allow * bootstrapping mechanics that are currently not needed." />
+      <item value="Implements Map.put and related methods" />
+      <item value="Computes key.hashCode() and spreads (XORs) higher bits of hash * to lower. Because the table uses power-of-two masking, sets of * hashes that vary only in bits above the current mask will * always collide. (Among known examples are sets of Float keys * holding consecutive whole numbers in small tables.) So we * apply a transform that spreads the impact of higher bits * downward. There is a tradeoff between speed, utility, and * quality of bit-spreading. Because many common sets of hashes * are already reasonably distributed (so don't benefit from * spreading), and because we use trees to handle large sets of * collisions in bins, we just XOR some shifted bits in the * cheapest possible way to reduce systematic lossage, as well as * to incorporate impact of the highest bits that would otherwise * never be used in index calculations because of table bounds." />
+      <item value="Because many common sets of hashes * are already reasonably distributed" />
+      <item value="There is a tradeoff between speed, utility, and * quality of bit-spreading" />
+      <item value="tradeoff" />
+      <item value="So we * apply a transform that spreads the impact of higher bits * downward" />
+      <item value="impact" />
+      <item value="consecutive" />
+      <item value="Among" />
+      <item value="collide" />
+      <item value="vary" />
+      <item value="masking" />
+      <item value="spreads" />
+      <item value="utilities" />
+      <item value="mutates" />
+      <item value="treeified" />
+      <item value="shrinkage " />
+      <item value="mesh" />
+      <item value="untreeifying" />
+      <item value="shrinkage" />
+      <item value="removal" />
+      <item value="assumptions" />
+      <item value="mesh with" />
+      <item value="converted to" />
+      <item value="bin" />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="TREEIFY" />
+      <item value="factor" />
+      <item value="amid" />
+      <item value="twisty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
+        <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>

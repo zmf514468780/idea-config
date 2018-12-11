@@ -1,14 +1,37 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
+  </action>
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
+  <action id="TailMyBatisLog" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="XDebugger.CopyName">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="emacsIDEAs.AceJumpSelect">
+    <keyboard-shortcut first-keystroke="meta i" second-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt s" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt w" />
   </action>
 </keymap>
