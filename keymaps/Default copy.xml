@@ -34,4 +34,7 @@
   <action id="emacsIDEAs.AceJumpWord">
     <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt w" />
   </action>
+  <action id="mybatis.AutoCoding">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
 </keymap>
