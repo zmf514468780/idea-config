@@ -25,9 +25,13 @@
   <action id="Maven.Reimport">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="Maven_f5b3160cms-microprogramf6d1f214install">
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
+  <action id="RunInspection" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <mouse-shortcut keystroke="button2" />
