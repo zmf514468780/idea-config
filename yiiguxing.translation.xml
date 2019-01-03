@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="列" />
+      <item value="colunm" />
       <item value="May expose internal representation by incorporating reference to mutable object&#10;This code stores a reference to an externally mutable object into the internal representation of the object.  If instances are accessed by untrusted code, and unchecked changes to the mutable object would compromise security or other important properties, you will need to do something different. Storing a copy of the object is better approach in many situations." />
       <item value="This Serializable class defines a non-primitive instance field which is neither transient, Serializable, or java.lang.Object, and does not appear to implement the Externalizable interface or the readObject() and writeObject() methods.  Objects of this class will not be deserialized correctly if a non-Serializable object is stored in this field." />
       <item value="This class is an inner class, but does not use its embedded reference to the object which created it.  This reference makes the instances of the class larger, and may keep the reference to the creator object alive longer than necessary.  If possible, the class should be made static." />
@@ -49,33 +51,14 @@
       <item value="masking" />
       <item value="spreads" />
       <item value="utilities" />
-      <item value="mutates" />
-      <item value="treeified" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
-    </option>
-  </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="AUTO" />
-      </youdao-translate>
     </option>
   </component>
 </application>
