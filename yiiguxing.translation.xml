@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="portrait" />
       <item value="extend" />
       <item value="get Roles" />
       <item value="MS ERROR" />
@@ -50,12 +51,11 @@
       <item value="consecutive" />
       <item value="Among" />
       <item value="collide" />
-      <item value="vary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
