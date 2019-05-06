@@ -74,6 +74,10 @@
           <option name="url" value="git@192.168.1.100:boss/sa-auth.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080" />
+          <option name="userName" value="zhangxc@zjbdos.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\projects" />
