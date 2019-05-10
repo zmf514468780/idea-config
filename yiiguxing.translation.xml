@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Strip" />
       <item value="common" />
       <item value="sampler" />
       <item value="Circuit" />
       <item value="O Auth" />
       <item value="Principal" />
-      <item value="Strip" />
       <item value="recover" />
       <item value="barge" />
       <item value="Service Record VO" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="GREEK" value="1" />
