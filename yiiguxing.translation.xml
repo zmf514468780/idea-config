@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="common" />
+      <item value="sampler" />
+      <item value="Circuit" />
+      <item value="O Auth" />
       <item value="Principal" />
       <item value="Strip" />
       <item value="recover" />
@@ -47,17 +51,14 @@
       <item value="zero initial threshold signifies using defaults" />
       <item value="threshold" />
       <item value="aka" />
-      <item value="double threshold" />
-      <item value="The maximum capacity, used if a higher value is implicitly specified * by either of the constructors with arguments. * MUST be a power of two &lt;= 1&lt;&lt;30." />
-      <item value="extract a root" />
-      <item value="开方" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="117" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
