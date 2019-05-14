@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Emitter" />
       <item value="candidate" />
       <item value="_s" />
       <item value="Strip" />
@@ -50,12 +51,11 @@
       <item value="preserve order" />
       <item value="Splits nodes in a tree bin into lower and upper tree bins, * or untreeifies if now too small. Called only from resize; * see above discussion about split bits and indices." />
       <item value="rawtypes" />
-      <item value="zero initial threshold signifies using defaults" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="GREEK" value="1" />
