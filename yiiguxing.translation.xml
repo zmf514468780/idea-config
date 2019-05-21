@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sign Activity Files" />
+      <item value="sing Activity Files" />
+      <item value="materials Files" />
       <item value="eligible" />
       <item value="Proof" />
       <item value="blind" />
@@ -48,14 +51,11 @@
       <item value="service Info Detail Repository.find By Id(service Info Id)" />
       <item value="Demand" />
       <item value="demand" />
-      <item value="is About To Apply" />
-      <item value="all Type Exist" />
-      <item value="angle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
