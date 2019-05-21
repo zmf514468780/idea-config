@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="backstage" />
       <item value="eternal Bind" />
       <item value="sign Activity Files" />
       <item value="sing Activity Files" />
@@ -50,15 +51,15 @@
       <item value="FBI warning : magic,don't touch" />
       <item value="Verify" />
       <item value="service Info Detail Repository.find By Id(service Info Id)" />
-      <item value="Demand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
+        <entry key="CHINESE" value="129" />
         <entry key="ENGLISH" value="129" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
