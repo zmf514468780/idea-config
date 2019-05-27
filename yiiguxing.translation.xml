@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="backStage" />
       <item value="sequential" />
       <item value="IMMUTABLE" />
       <item value="accumulator" />
@@ -50,11 +51,10 @@
       <item value="MS ERROR" />
       <item value="列" />
       <item value="colunm" />
-      <item value="May expose internal representation by incorporating reference to mutable object&#10;This code stores a reference to an externally mutable object into the internal representation of the object.  If instances are accessed by untrusted code, and unchecked changes to the mutable object would compromise security or other important properties, you will need to do something different. Storing a copy of the object is better approach in many situations." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
+        <entry key="CHINESE" value="137" />
         <entry key="ENGLISH" value="137" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
