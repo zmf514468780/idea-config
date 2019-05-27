@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sequential" />
+      <item value="IMMUTABLE" />
+      <item value="accumulator" />
+      <item value="Indicates that the finisher function is the identity function and * can be elided. If set, it must be the case that an unchecked cast * from A to R will succeed." />
+      <item value="0 x 00004000" />
+      <item value="estimate Size" />
+      <item value="Spliterator" />
       <item value="ordinal" />
       <item value="panorama" />
       <item value="backstage" />
@@ -44,20 +51,14 @@
       <item value="列" />
       <item value="colunm" />
       <item value="May expose internal representation by incorporating reference to mutable object&#10;This code stores a reference to an externally mutable object into the internal representation of the object.  If instances are accessed by untrusted code, and unchecked changes to the mutable object would compromise security or other important properties, you will need to do something different. Storing a copy of the object is better approach in many situations." />
-      <item value="This Serializable class defines a non-primitive instance field which is neither transient, Serializable, or java.lang.Object, and does not appear to implement the Externalizable interface or the readObject() and writeObject() methods.  Objects of this class will not be deserialized correctly if a non-Serializable object is stored in this field." />
-      <item value="This class is an inner class, but does not use its embedded reference to the object which created it.  This reference makes the instances of the class larger, and may keep the reference to the creator object alive longer than necessary.  If possible, the class should be made static." />
-      <item value="getInputStream() makes inefficient use of keySet iterator instead of entrySet iterator" />
-      <item value="Dodgy" />
-      <item value="r" />
-      <item value="get Shop Mini Detail" />
-      <item value="FBI warning : magic,don't touch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
+        <entry key="CROATIAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
