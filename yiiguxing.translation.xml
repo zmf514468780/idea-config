@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ordinal" />
       <item value="panorama" />
       <item value="backstage" />
       <item value="eternal Bind" />
@@ -50,12 +51,11 @@
       <item value="r" />
       <item value="get Shop Mini Detail" />
       <item value="FBI warning : magic,don't touch" />
-      <item value="Verify" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
