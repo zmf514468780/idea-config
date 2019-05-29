@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="existence" />
       <item value="backStage" />
       <item value="sequential" />
       <item value="IMMUTABLE" />
@@ -50,12 +51,11 @@
       <item value="get Roles" />
       <item value="MS ERROR" />
       <item value="列" />
-      <item value="colunm" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
