@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="existence" />
+      <item value="backStage" />
+      <item value="sequential" />
+      <item value="IMMUTABLE" />
+      <item value="accumulator" />
+      <item value="Indicates that the finisher function is the identity function and * can be elided. If set, it must be the case that an unchecked cast * from A to R will succeed." />
+      <item value="0 x 00004000" />
+      <item value="estimate Size" />
+      <item value="Spliterator" />
+      <item value="ordinal" />
+      <item value="panorama" />
+      <item value="backstage" />
+      <item value="eternal Bind" />
+      <item value="sign Activity Files" />
+      <item value="sing Activity Files" />
+      <item value="materials Files" />
+      <item value="eligible" />
+      <item value="Proof" />
+      <item value="blind" />
+      <item value="bilnd" />
+      <item value="decorate" />
+      <item value="Emitter" />
+      <item value="candidate" />
+      <item value="_s" />
+      <item value="Strip" />
+      <item value="common" />
+      <item value="sampler" />
+      <item value="Circuit" />
+      <item value="O Auth" />
+      <item value="Principal" />
       <item value="recover" />
       <item value="barge" />
       <item value="Service Record VO" />
@@ -21,43 +51,18 @@
       <item value="get Roles" />
       <item value="MS ERROR" />
       <item value="列" />
-      <item value="colunm" />
-      <item value="May expose internal representation by incorporating reference to mutable object&#10;This code stores a reference to an externally mutable object into the internal representation of the object.  If instances are accessed by untrusted code, and unchecked changes to the mutable object would compromise security or other important properties, you will need to do something different. Storing a copy of the object is better approach in many situations." />
-      <item value="This Serializable class defines a non-primitive instance field which is neither transient, Serializable, or java.lang.Object, and does not appear to implement the Externalizable interface or the readObject() and writeObject() methods.  Objects of this class will not be deserialized correctly if a non-Serializable object is stored in this field." />
-      <item value="This class is an inner class, but does not use its embedded reference to the object which created it.  This reference makes the instances of the class larger, and may keep the reference to the creator object alive longer than necessary.  If possible, the class should be made static." />
-      <item value="getInputStream() makes inefficient use of keySet iterator instead of entrySet iterator" />
-      <item value="Dodgy" />
-      <item value="r" />
-      <item value="get Shop Mini Detail" />
-      <item value="FBI warning : magic,don't touch" />
-      <item value="Verify" />
-      <item value="service Info Detail Repository.find By Id(service Info Id)" />
-      <item value="Demand" />
-      <item value="demand" />
-      <item value="is About To Apply" />
-      <item value="all Type Exist" />
-      <item value="angle" />
-      <item value="Returns the value to which the specified key is mapped, * or {@code null} if this map contains no mapping for the key. * * &lt;p&gt;More formally, if this map contains a mapping from a key * {@code k} to a value {@code v} such that {@code (key==null ? k==null : * key.equals(k))}, then this method returns {@code v}; otherwise * it returns {@code null}. (There can be at most one such mapping.) * * &lt;p&gt;A return value of {@code null} does not &lt;i&gt;necessarily&lt;/i&gt; * indicate that the map contains no mapping for the key; it's also * possible that the map explicitly maps the key to {@code null}. * The {@link #containsKey containsKey} operation may be used to * distinguish these two cases." />
-      <item value="Replaces all linked nodes in bin at index for given hash unless * table is too small, in which case resizes instead." />
-      <item value="preserve order" />
-      <item value="Splits nodes in a tree bin into lower and upper tree bins, * or untreeifies if now too small. Called only from resize; * see above discussion about split bits and indices." />
-      <item value="rawtypes" />
-      <item value="zero initial threshold signifies using defaults" />
-      <item value="threshold" />
-      <item value="aka" />
-      <item value="double threshold" />
-      <item value="The maximum capacity, used if a higher value is implicitly specified * by either of the constructors with arguments. * MUST be a power of two &lt;= 1&lt;&lt;30." />
-      <item value="extract a root" />
-      <item value="开方" />
-      <item value="平方" />
-      <item value="capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
+        <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>

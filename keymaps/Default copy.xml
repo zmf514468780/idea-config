@@ -1,5 +1,8 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="ChangesView.Move" />
+  <action id="CloseAllUnmodifiedEditors">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
