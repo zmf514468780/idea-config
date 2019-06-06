@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="magic!don't touch!" />
+      <item value="magic" />
       <item value="政策" />
       <item value="realm" />
       <item value="corresponding" />
@@ -49,13 +51,11 @@
       <item value="vary" />
       <item value="masking" />
       <item value="XO Rs" />
-      <item value="compatibility" />
-      <item value="intrinsics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
