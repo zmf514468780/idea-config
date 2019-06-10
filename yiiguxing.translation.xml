@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="internal" />
+      <item value="enternal" />
       <item value="兴趣" />
       <item value="magic!don't touch!" />
       <item value="magic" />
@@ -49,12 +51,10 @@
       <item value="impact" />
       <item value="consecutive" />
       <item value="collide" />
-      <item value="vary" />
-      <item value="masking" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
+        <entry key="CHINESE" value="147" />
         <entry key="ENGLISH" value="147" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
