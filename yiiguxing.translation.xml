@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclued" />
       <item value="intersected" />
       <item value="internal" />
       <item value="enternal" />
@@ -50,14 +51,14 @@
       <item value="Service Record VO" />
       <item value="transient" />
       <item value="impact" />
-      <item value="consecutive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
+        <entry key="CHINESE" value="148" />
         <entry key="ENGLISH" value="148" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
