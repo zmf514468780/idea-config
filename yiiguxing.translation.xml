@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="format" />
+      <item value="formatte" />
       <item value="exclued" />
       <item value="intersected" />
       <item value="internal" />
@@ -49,8 +51,6 @@
       <item value="recover" />
       <item value="barge" />
       <item value="Service Record VO" />
-      <item value="transient" />
-      <item value="impact" />
     </histories>
     <option name="languageScores">
       <map>
