@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Aptitude Name Contains" />
       <item value="format" />
       <item value="formatte" />
       <item value="exclued" />
@@ -50,12 +51,11 @@
       <item value="Principal" />
       <item value="recover" />
       <item value="barge" />
-      <item value="Service Record VO" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
