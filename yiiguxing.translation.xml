@@ -1,24 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="is Aptitude Name Contains" />
-      <item value="format" />
-      <item value="formatte" />
-      <item value="exclued" />
-      <item value="intersected" />
-      <item value="internal" />
-      <item value="enternal" />
-      <item value="兴趣" />
-      <item value="magic!don't touch!" />
-      <item value="magic" />
-      <item value="政策" />
-      <item value="realm" />
-      <item value="corresponding" />
-      <item value="capitalize" />
-      <item value="uncapitalize" />
-      <item value="tokenize To String Array" />
-      <item value="delimited List To String Array" />
-      <item value="Delete any character in a given" />
       <item value="existence" />
       <item value="backStage" />
       <item value="sequential" />
@@ -51,14 +33,31 @@
       <item value="Principal" />
       <item value="recover" />
       <item value="barge" />
+      <item value="Service Record VO" />
+      <item value="transient" />
+      <item value="impact" />
+      <item value="consecutive" />
+      <item value="collide" />
+      <item value="vary" />
+      <item value="masking" />
+      <item value="XO Rs" />
+      <item value="compatibility" />
+      <item value="intrinsics" />
+      <item value="most often" />
+      <item value="����: �Ҳ������޷��������� =" />
+      <item value="Clause" />
+      <item value="portrait" />
+      <item value="extend" />
+      <item value="get Roles" />
+      <item value="MS ERROR" />
+      <item value="列" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
