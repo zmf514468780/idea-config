@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="RegExp" injector-id="java">
+      <display-name>MatchPattern.pattern (net.sf.oval.constraint)</display-name>
+      <place><![CDATA[psiMethod().withName("pattern").withParameters().definedInClass("net.sf.oval.constraint.MatchPattern")]]></place>
+    </injection>
+  </component>
+</application>
