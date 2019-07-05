@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="judge" />
       <item value="is Satisfied" />
       <item value="fractional" />
       <item value="assign Amount" />
       <item value="Coupon" />
       <item value="stock" />
-      <item value="judge" />
       <item value="judge Is Speed Up And Get Add Credit" />
       <item value="eternal" />
       <item value="Census" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="ALBANIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
