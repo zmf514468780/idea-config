@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile_for_cloud" type="Dockerfile" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="asdasf" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="script" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
