@@ -20,4 +20,18 @@
       <option name="WORKING_DIRECTORY" value="E:/softWare/xshell5" />
     </exec>
   </tool>
+  <tool name="pip freeze" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PyInterpreterDirectory$/pip3.exe" />
+      <option name="PARAMETERS" value="freeze &gt; requirements.txt" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="pip install" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PyInterpreterDirectory$/pip" />
+      <option name="PARAMETERS" value="install -r $FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>
