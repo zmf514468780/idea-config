@@ -1,5 +1,15 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorSplitLine" />
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
+  </action>
+  <action id="Groovy.Shell.Execute" />
+  <action id="KotlinShellExecute" />
+  <action id="ViewSource" />
 </keymap>
