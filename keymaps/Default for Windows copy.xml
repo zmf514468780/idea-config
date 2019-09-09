@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
   </action>
@@ -21,5 +24,6 @@
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="Vcs.ToggleAmendCommitMode" />
   <action id="ViewSource" />
 </keymap>
