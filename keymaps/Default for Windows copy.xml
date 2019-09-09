@@ -14,5 +14,12 @@
   </action>
   <action id="Groovy.Shell.Execute" />
   <action id="KotlinShellExecute" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+  <action id="TailMyBatisLog" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
   <action id="ViewSource" />
 </keymap>
