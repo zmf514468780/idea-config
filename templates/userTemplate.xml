@@ -45,7 +45,7 @@
     </context>
   </template>
   <template name="add" value="add by zxc on $date$ : $desc$" description="注释" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
     <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
