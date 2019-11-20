@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="hg4idea.pull">
+    <keyboard-shortcut first-keystroke="shift p" />
+  </action>
 </keymap>
