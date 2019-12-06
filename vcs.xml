@@ -182,9 +182,17 @@
           <option name="url" value="http://183.131.202.93:9080/springcloud/springcloud-biz-root" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tonyboxes/netty-chat" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/YeautyYE/netty-websocket-spring-boot-starter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\git-project" />
+    <option name="cloneParentDir" value="E:\git-hub-project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
