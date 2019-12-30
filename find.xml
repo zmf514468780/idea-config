@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,8 +18,8 @@
     <mask>*.factories</mask>
     <mask>*.sql</mask>
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>*</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
