@@ -63,4 +63,9 @@
     </context>
   </template>
   <template name="pls" value="private List&lt;String&gt; $END$" description="private List&lt;String&gt;" toReformat="false" toShortenFQNames="true" />
+  <template name="rrs" value="ResponseResult.success($END$);" description="rrs" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
