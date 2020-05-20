@@ -10,6 +10,7 @@
         <option value="squid:S3066" />
         <option value="squid:S3252" />
         <option value="squid:S3457" />
+        <option value="squid:S3752" />
       </set>
     </option>
   </component>
