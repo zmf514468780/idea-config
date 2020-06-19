@@ -342,6 +342,10 @@
           <option name="url" value="https://github.com/VictorBu/code-snippet/tree/master/java/spring-cloud-alibaba-parent" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/seata/seata.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\git-project" />
