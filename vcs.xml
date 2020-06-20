@@ -350,6 +350,10 @@
           <option name="url" value="https://github.com/a970066364/spring-cloud-alibaba-seata.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/liangzhifa/springcloud-alibaba-seata-feign.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\git-project" />
