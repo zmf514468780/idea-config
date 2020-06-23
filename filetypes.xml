@@ -6,6 +6,7 @@
       <mapping ext="2sql" type="PLAIN_TEXT" />
       <mapping ext="3sql" type="PLAIN_TEXT" />
       <mapping ext="2 存储过程" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
