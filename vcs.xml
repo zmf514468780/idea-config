@@ -378,6 +378,10 @@
           <option name="url" value="https://github.com/wyscjm/NamingCounter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zmf514468780/getStuendId" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\git-project" />
