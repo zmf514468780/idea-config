@@ -1,0 +1,7 @@
+<templateSet group="AndroidLog">
+  <template name="qw" value=" QueryWrapper&lt;$END$&gt; queryWrapper = new QueryWrapper&lt;&gt;();&#10;        queryWrapper.eq(&quot;deleted&quot;, SysConsts.SYS_NO); " description="qw" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
