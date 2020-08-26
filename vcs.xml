@@ -390,6 +390,10 @@
           <option name="url" value="http://183.131.202.93:9080/hzyw/hzyw-oa-light" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.131.202.93:9080/hzyw/hzyw-weather" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\git-project" />
